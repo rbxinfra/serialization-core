@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D9A7F93D-408D-4238-823D-F7EA8394309A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roblox.Serialization.Json", "src\json\Roblox.Serialization.Json.csproj", "{F6B6415A-E29E-498B-B0EF-8615F1CAEA97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B6415A-E29E-498B-B0EF-8615F1CAEA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B6415A-E29E-498B-B0EF-8615F1CAEA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B6415A-E29E-498B-B0EF-8615F1CAEA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B6415A-E29E-498B-B0EF-8615F1CAEA97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6B6415A-E29E-498B-B0EF-8615F1CAEA97} = {D9A7F93D-408D-4238-823D-F7EA8394309A}
+	EndGlobalSection
+EndGlobal
